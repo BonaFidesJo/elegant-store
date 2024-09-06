@@ -11,4 +11,4 @@ HTML, SCSS, JS, GULP
 [Demo](https://bonafidesjo.github.io/elegant-store/)
 
 
-![Desktop](https://github.com/user-attachments/assets/502ba10f-0f45-4080-9c9f-eebd7dd4349c)
+![Desktop](https://github.com/user-attachments/assets/52f511ba-071a-4480-8967-d45da70e9ca1)
